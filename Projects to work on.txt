@@ -1,3 +1,4 @@
+the priority of the peojects to work on:
 
 Text Classification with Transformers-RoBERTa and XLNet Model
 https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397
